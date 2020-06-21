@@ -141,6 +141,14 @@ docker rmi b750fe78269d
 
 Deletes `image`s.
 
+### `docker tag`
+
+```yml
+docker tag image_name image_name_tag:v1
+```
+
+Tag an`image`.
+
 ## Clean up
 
 ### Clean all
